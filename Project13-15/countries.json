@@ -1,0 +1,84 @@
+{
+    "countries":[
+        {
+            "country": "Canada",
+            "facts": [
+                "Canada is the largest country in the Western hemisphere and the second largest country in the world after Russia and borders only one country, the United States of America.",
+                "Nine out of ten Canadians live in the US - Canada border region which includes the area up to 160 km/ 99 miles from the US - Canada border",
+                "The Literacy Rate is 99%, so almost all Canadians can read and write.",
+                "About 1.4 Million Canadians refer to themselves as belonging to the indigenous or Aboriginal people, among them First Nation people, Metis and Inuits. Did you know, that 21 June is celebrated as 'National Aboriginal Day' in Canada? This is a day of celebration for Aboriginal peoples in Canada.",
+                "About half of Canada's landmass is covered by forest. There are about 180 tree species in Canada. Timber is among the main exports of the country. Canada is the third most forested country in the world."
+            ]
+        },
+        {
+            "country": "Russia",
+            "facts": [
+                "Russia is a huge country that is double the size of Australia and about 1.8 times as big as the USA. Westernmost part of Russia is more populated than the other parts of Russia and it is in the western regions of Russia that most cities and towns are found.",
+                "The Ural mountain ridge is the longest mountain ridge in Russia with more than 2,000 km/ 1,242 miles long and runs from North to South in the western part of Russia.",
+                "The deepest lake in the world is Lake Baikal. The Russian refer to it as the 'Blue Eye of Siberia'. Lake Baikal is the biggest water reservoir in the world holding one fifth of the world's freshwater reserves. Lake Baikal holds more water than North America's Great Lakes combined!",
+                "Experience the 'White Nights' which are for about two weeks from mid of June. Then the sun will not set in St Petersburg and there will be daylight for 24 hours!",
+                "The Russian language is written with the Cyrillic alphabet which consists of 33 letters. Some letters are similar to the Latin alphabet, but some are different. For example: 'P' in Russian is pronounced 'R' in English or the 'C' is pronounced as 'S', the 'Y' is an 'U'."
+            ]
+        },
+        {
+            "country": "USA",
+            "facts": [
+                "The national flag of the USA has 13 stripes and 50 white stars on blue background. ",
+                "The capital city of the USA is called Washington D.C. D.C. stands for District of Columbia. Washington D.C. has about 7.5 million inhabitants.",
+                "The USA is the third most populous country in the world after China and India. The USA is home to 332 million inhabitants. Almost 40% of all Americans live close in the East Coast states, while about 16% live along the West Coast states. 83% of the population lives in urban areas.",
+                "Hottest place in the USA: Death Valley. The Death Valley's Badwater Basin is also the lowest point on the North American continent with an elevation of 86 m/ 282 ft.",
+                " The first president of the USA was George Washington. He was elected in 1789. Presidential elections are held every four years since 1792. Joe Biden, born in 1942, is the 46th president of the USA."
+            ]
+        },
+        {
+            "country": "UK",
+            "facts": [
+                "UK: United Kingdom is an country belonging to the European continent that includes four separate countries on the British isles: England, Northern Ireland, Scotland and Wales.",
+                "No location in the UK is further away from the sea than 125 km/ 77 miles!",
+                "The United Kingdom was part of the European Union from 1973 until 'Brexit' was finalised on 31 December 2020 when the transition period (from 31 January 2020) ended with new arrangements between the EU and the UK. Read more about the European Union here.",
+                "Loch Ness is the largest fresh water lake (by volume) in the UK. ",
+                "The capital city has many attractions. London’s Shard skyscraper is the tallest building on the European continent with 310 m/ 1,015 ft. in height."
+            ]
+        },
+        {
+            "country": "China",
+            "facts": [
+                "China borders 14 countries. The countries bordering China are: Russia, Mongolia, Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan, Pakistan, India, Bhutan, Nepal, Myanmar (formerly called Burma), Laos, Vietnam and North Korea.",
+                "The Pacific Ocean forms the natural border in the east and southeast and southwest of the country. In the west, there are the Himalayas, which is the highest mountain range in the world.",
+                "China is the most populous country in the world as it is home to almost one fifth of the world population.",
+                "China has the world's longest sea-crossing bridge. The Hongkong to Zhuhai-Macao bridge was opened to traffic in October 2018.",
+                "The Gobi Desert which stretches over China and  Mongolia is the largest desert in Asia."
+            ]
+        },
+        {
+            "country": "Japan",
+            "facts": [
+                "Japan is an island country on the Asian continent. More exactly, Japan is an archipelago or chain of islands along the eastern coast of Asia, reaching from the northern coast of Russia to the South East China Sea.",
+                "The highest mountain in Japan is Mount Fuji, a dormant (sleeping) volcano, which last erupted in 1707. Mount Fuji is 3,776 metres/ 12,388 feet high.",
+                "Japan is slightly smaller than the state of California in the USA or slightly bigger than Germany.",
+                "Japan is the oldest monarchy in the world and has an emperor. Naruhito, the reigning emperor is Japan's 126th emperor, in Japanese called 'tenno'. The emperor's wife is Empress Masako. The imperial palace is in Tokyo and this is the main residence of the imperial family",
+                "Japanese celebrate many festivals among them the most popular in springtime to celebrate the spring flower season and the cherry blossom. The Gion Matsuri in July is celebrated in Kyoto when the Japanese people dress in traditional kimonos."
+            ]
+        },
+        {
+            "country": "South Korea",
+            "facts": [
+                "South Korea is located in Eastern Asia and sits on the southern half of the Korean peninsula. The only land borders are with North Korea with which South Korea shares the Korean peninsula.",
+                "South Korea is roughly the size of England or Portugal and about ⅓ of the size of Germany. South Korea is slightly smaller than the US state of Pennsylvania or seven times smaller than Texas!",
+                "South Korea is a mountainous country, with about 70% of the land covered by hills and mountains. Nam-san or Nam mountain overlooks the capital city of Seoul.",
+                "South Korea is one of the most technologically advanced countries and the educational standards are high. Below you see a photo of Incheon, which is the third populous city in South Korea. The city's international airport is the largest in South Korea and one of the busiest transport hubs in Asia. ",
+                "Busan is a large port city in the southern part of the country. In South Korea's second biggest city, you can do your shopping and temple tours but also relax at some stunning beaches."
+            ]
+        },
+        {
+            "country": "Italy",
+            "facts": [
+                "Italy is a country in Southern Europe. The country is located on a peninsula in the Mediterranean Sea.",
+                "Italy borders six countries: France, Austria, Switzerland, Slovenia, Vatican City and San Marino.",
+                "The highest mountains of Italy can be found in the Alps. The Dolomites are a part of the Alps mountain range in Italy's north and many of the peaks are above 3,000 m/ 9,843 ft high!",
+                "In the South of Italy you will find Italy’s three active volcanoes: Vesuvius near Naples, Etna on Sicily and Stromboli off the Coast of Italy.",
+                "Italians lead a modern lifestyle especially in the urban centres but they also celebrate century-old cultural traditions. Famous festivals that are celebrated annually are the carnival celebrations before Lent. In Venice, these are said to originate in the 12th century."
+            ]
+        }
+    ]
+}
